@@ -191,7 +191,7 @@
     </section>
 
     <footer class="footer">
-        @Developed by Atharva Joshi , Mrudula Kharge , Ganesh Dhage , Yash Dangat , Abhishek Thopte 
+        @Developed by Atharva Joshi
         <a href="https://github.com/Atharvajoshiii" target="_blank">
             <i class="fa-brands fa-github fa-2xl"></i>
         </a>
