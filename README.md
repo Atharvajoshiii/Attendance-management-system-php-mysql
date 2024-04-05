@@ -6,9 +6,7 @@ Welcome to the Attendance Management System! This system is designed to help you
 
 - **User Authentication**: Secure login and registration system for users.
 - **Attendance Tracking**: Record attendance of students/employees efficiently.
-- **Reports**: Generate reports based on attendance data for analysis.
 - **Admin Dashboard**: Manage users, attendance records, and system settings.
-- **Responsive Design**: User-friendly interface accessible on various devices.
 
 ## Technologies Used
 
@@ -24,3 +22,7 @@ Welcome to the Attendance Management System! This system is designed to help you
 
    ```bash
    git clone https://github.com/your-username/attendance-management-system.git
+
+## Admin Login 
+   - username = admin
+   - password = admin 
